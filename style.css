@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 100px;
+}
+
+h4{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+button {
+    background-color: rgba(21, 4, 250, 0.959);
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    width: 50;
+    height: 50;
+ 
+}
